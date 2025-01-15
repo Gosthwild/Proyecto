@@ -8,9 +8,6 @@ data = [
     ("😢", "triste"),
     ("😭", "triste"),
     ("😠", "enojado"),
-    ("😡", "enojado"),
-    ("❤️", "amor"),
-    ("😍", "amor"),
     ("😴", "cansado"),
     ("🤔", "pensativo")
 ]
